@@ -41,6 +41,8 @@
 * **Scorecard Insights:** Inspect code submissions, test metrics, and detailed answer breakdowns[cite: 1].
 * **Integrated Scheduling:** Direct calendar booking for first-round technical interviews[cite: 1].
 
+
+### Deployed link - https://directhire0.netlify.app/
 ---
 
 ## 🔄 End-to-End Workflow
