@@ -1,0 +1,6 @@
+{
+  "name": "DirectHire",
+  "description": "Skill-first candidate discovery platform connecting non-tier-1 college talent with recruiters through verified benchmark tests.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
